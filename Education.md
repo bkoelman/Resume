@@ -1,3 +1,5 @@
+## Education
+
 | Period | Schooling | Institute |
 |:-------|:----------|:----------|
 | 2011 | [Lead Enterprise Architect Program (LEAP)](https://blogs.technet.microsoft.com/dutchpts/2010/07/29/aankondiging-lead-enterprise-architect-program-leap/) | Microsoft |

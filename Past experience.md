@@ -1,11 +1,13 @@
-## Experience at T-Mobile Netherlands as consultant of [T-Systems Nederland](https://www.t-systems.com/nl/nl)
+## Past experience
+
+### Experience at T-Mobile Netherlands as consultant of [T-Systems Nederland](https://www.t-systems.com/nl/nl)
 
 |     |     |
 |-----|-----|
 | **Period** | 2016-06 - 2016-07 |
 | **Role** | [SAFe Scrum](https://en.wikipedia.org/wiki/Scaled_Agile_Framework) Developer |
 | **Project** | Data Pooling for Municipalities |
-| **Scenario** | Corporate telecom customers want to buy in their data usage at a large scale and then divide over their employees. This required changes in the mobile network, as well as in billing and portal systems. Being a member of a multidisciplinary scrum team, we designed, implemented and tested the required changes to enable this. The public portal application enables corporate telecom managers to configure data limits and sms notifications per subscriber, or in batch through import/export. |
+| **Scenario** | Corporate telecom customers want to buy their data at a large scale and then divide over their employees. This required changes in the mobile network, as well as in billing and portal systems. Being a member of a multidisciplinary scrum team, we designed, implemented and tested the required changes to enable this. The public portal application enables corporate telecom managers to configure data limits and sms notifications per subscriber, or in batch through import/export. |
 |     |     |
 | **Period** | 2016-03 |
 | **Role** | [SAFe Scrum](https://en.wikipedia.org/wiki/Scaled_Agile_Framework) Developer |
@@ -55,7 +57,7 @@
 | **Period** | 2013-10 |
 | **Role** | Developer |
 | **Project** | Convert all business contracts to T-Mobile Helder rateplan |
-| **Scenario** | After the success of rateplan "Stel Samen" (residential subscribers can freely choose how many MB's, SMS's and calling credits they want in their rateplan by using sliders which work independent of each other), a similar rateplan was introduced for business customers. Business contracts are usually complex in that they consist of multiple rateplans with varying add-ons. The goal of this Scrum was to design a tool that customer care agents could use to advise existing customers how to switch to a similar Helder rateplan. Work involved converting a large excel-sheet into a database-driven tool with Ajax capabilities for hierarchical filtering. |
+| **Scenario** | After the success of rateplan "Stel Samen" (residential subscribers can freely choose how many megabytes, sms-es and calling credits they want in their rateplan by using sliders which work independent of each other), a similar rateplan was introduced for business customers. Business contracts are usually complex in that they consist of multiple rateplans with varying add-ons. The goal of this Scrum was to design a tool that customer care agents could use to advise existing customers how to switch to a similar Helder rateplan. Work involved converting a large excel-sheet into a database-driven tool with Ajax capabilities for hierarchical filtering. |
 |     |     |
 | **Period** | 2013-05 - 2013-09 |
 | **Role** | Developer |
@@ -72,7 +74,7 @@
 | **Project** | Encrypted configuration |
 | **Scenario** | The security department within T-Mobile demands that all configuration data on servers, such as database connection strings, cryptographic keys, server names and email addresses are stored encrypted. Operational department requires tooling to easily decrypt-change-encrypt such files to prevent considerable extra work. I Implemented automated decryption of configuration settings at runtime and provided operators with a tool on which they can drag-and-drop configuration files that can then be edited and are automatically re-encrypted when changes have been made. In addition, this tool was used for the one-time encryption of all existing settings. |
 
-## Experience at eVision Industry Software as consultant of [Aviva Solutions](http://avivasolutions.nl/)
+### Experience at eVision Industry Software as consultant of [Aviva Solutions](http://avivasolutions.nl/)
 
 |     |     |
 |-----|-----|
@@ -81,7 +83,7 @@
 | **Project** | Permit Vision |
 | **Scenario** | eVision develops the product [Permit Vision](https://www.evision-software.com/blog/project/issow-integrated-safe-system-of-work/), which is used to manage the workflow of maintenance activities (including risk assessment) at an oil rig, conforming to ISO standards NEN/ISO 17776, NOGEPA and Deltalinqs. I worked in multiple Scrum sprints on extending the Permit Vision product. The first sprints focusing on customizations for BG Group. Later I joined the product development team. |
 
-## Experience at T-Mobile Netherlands as consultant of [Ordina](https://www.ordina.nl/)
+### Experience at T-Mobile Netherlands as consultant of [Ordina](https://www.ordina.nl/)
 
 |     |     |
 |-----|-----|
@@ -98,7 +100,7 @@
 | **Period** | 2010-08 - 2010-09 |
 | **Role** | Lead Developer |
 | **Project** | Automated handset settings |
-| **Scenario** | On the website of T-Mobile, a user can select his/her brand and type of handset from a dropdown list, after which the system sends an SMS with technical phone configuration settings for SMS/MMS/email-gateway, Bluetooth etc. In the new situation, the application retrieves in real-time from the GSM network in what brand/type of handset the users’ SIM card is currently active. Non-logged-in users must enter their phone number first. There were variations of this mechanism required for dealers and customer service representatives. My work involved to elaborate designs in collaboration with business analyst and tester. In addition, inventory, scheduling, work allocation and realization of this project with commitment of me and two medior developers. I myself have built complex components, such as multilayer caching to reduce load on backend systems, single sign-on mechanisms, etc. |
+| **Scenario** | On the website of T-Mobile, a user can select his/her brand and type of handset from a dropdown list, after which the system sends an sms with technical phone configuration settings for sms/mms/email-gateway, Bluetooth etc. In the new situation, the application retrieves in real-time from the GSM network in what brand/type of handset the users’ SIM card is currently active. Non-logged-in users must enter their phone number first. There were variations of this mechanism required for dealers and customer service representatives. My work involved to elaborate designs in collaboration with business analyst and tester. In addition, inventory, scheduling, work allocation and realization of this project with commitment of me and two medior developers. I myself have built complex components, such as multilayer caching to reduce load on backend systems, single sign-on mechanisms, etc. |
 |     |     |
 | **Period** | 2010-03 - 2010-04 |
 | **Role** | Web Developer |
@@ -108,7 +110,7 @@
 | **Period** | 2009-09 - 2009-10 |
 | **Role** | Lead Web Developer |
 | **Project** | Login password hashing & Single Sign-On |
-| **Scenario** | As a result of tighter security requirements, it was no longer permitted to store customer account passwords for the www.t-mobile.nl website in the database as plain text. In the new scenario, the system had be changed to use password hashes with salts, including automatically expiring passwords that would be sent by SMS in case a user forgot his/her password. After logging in with this secondary password, the user was forced to change his/her primary password. Existing single sign-on entry points used to lookup user passwords in the database (and then enter the regular authentication flow), which was no longer possible in the new scenario. This meant redefining about 15 existing single sign-on solutions. My role involved technical design of the solution and guiding three medior application developers. Also building a new login- and single sign-on API, that was consumed by application developers in various scenarios. The framework behind this API provided data access, password hashing and generation, ticket encryption including an impersonation chain. Example API calls are Login, RequestPasswordChange, ChangePassword etc. |
+| **Scenario** | As a result of tighter security requirements, it was no longer permitted to store customer account passwords for the www.t-mobile.nl website in the database as plain text. In the new scenario, the system had be changed to use password hashes with salts, including automatically expiring passwords that would be sent by sms in case a user forgot his/her password. After logging in with this secondary password, the user was forced to change his/her primary password. Existing single sign-on entry points used to lookup user passwords in the database (and then enter the regular authentication flow), which was no longer possible in the new scenario. This meant redefining about 15 existing single sign-on solutions. My role involved technical design of the solution and guiding three medior application developers. Also building a new login- and single sign-on API, that was consumed by application developers in various scenarios. The framework behind this API provided data access, password hashing and generation, ticket encryption including an impersonation chain. Example API calls are Login, RequestPasswordChange, ChangePassword etc. |
 |     |     |
 | **Period** | 2009-07 - 2009-08 |
 | **Role** | Web Developer |
@@ -130,7 +132,7 @@
 | **Project** | Background Services Platform |
 | **Scenario** | The processing of background tasks on the public website took such an extent that it led to decreasing performance of the entire website. To remedy this, the team architect and me designed and implemented an infrastructure to process background tasks via a database queue on separate servers. I was responsible for development and expansion of the basic solution, which allowed tasks to be run as either Windows Service or as a scheduled task in a configurable number of threads inside their own AppDomain. The solution included detection of deployments by using shadow copying of assemblies. This enabled deployment of new versions without the need to stop running Windows services by an administrator. Additionally, I built a framework for handling tasks from the queue and implemented an API for adding new jobs. I also migrated existing code to use the new architecture. Delegating long running tasks from the public web servers to dedicated background servers reduced the load on the web servers, which enabled them to better handle load. The increased scalability offered new possibilities for future developments. In the subsequent years this infrastructure was frequently used. |
 
-## Experience at [Micros B.V.](https://www.micros.nl/)
+### Experience at [Micros B.V.](https://www.micros.nl/)
 
 |     |     |
 |-----|-----|

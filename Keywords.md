@@ -1,4 +1,6 @@
-## Technologies
+## Keywords
+
+### Technologies
 | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) |
 [ASP.NET MVC](http://www.asp.net/mvc) |
 [ASP.NET Web Forms](http://www.asp.net/web-forms) |
@@ -32,7 +34,7 @@
 [CIMD (sms protocol)](https://en.wikipedia.org/wiki/CIMD) |
 [Roslyn](https://github.com/dotnet/roslyn) |
 
-## Tools
+### Tools
 | [Visual Studio](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx) |
 [Resharper](https://www.jetbrains.com/resharper/) |
 [GitHub](https://github.com/) |
@@ -44,7 +46,7 @@
 [Telerik Controls](http://www.telerik.com/products/aspnet-ajax.aspx) |
 [Total Commander](http://www.ghisler.com/) |
 
-## Methodologies
+### Methodologies
 | [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) |
 [Agile](https://en.wikipedia.org/wiki/Agile_software_development) |
 [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) |
