@@ -11,6 +11,8 @@ Please stop reading if this sounds too idealistic for you.
 
 In my spare time, I like contributing to the open-source [Microsoft Roslyn project](https://github.com/dotnet/roslyn) (C# and VB.NET compilers). Helping to bring the [languages](https://github.com/dotnet/roslyn/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3Abkoelman) and [toolsets](https://github.com/dotnet/roslyn-analyzers/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3Abkoelman) to a higher level. While doing that, I'm proudly drinking from my [Cup\<T\>](https://blogs.msdn.microsoft.com/dotnet/2015/07/02/thank-you-for-your-contributions/), personally engraved by the Roslyn team!
 
+*"Bart has been a really awesome contributor to Roslyn analysis and compiler platform open-source projects. He writes clean code, understands all the nuances of software development very well and is extremely passionate about his work. I am one of the primary owners of the roslyn based analyzers project at Microsoft (https://github.com/dotnet/roslyn-analyzers) and Bart has been by far the most involved and consistent community contributor to the repo - we almost feel like he is part of our team! I would like again thank Bart for his numerous contributions to the Roslyn projects and hope there are many more to come in the future!"* -- 2016, M. Vasani, SDE at Microsoft
+
 Feel free to contact me if you have a vision. Are committed to making the world a bit better. Are building a high-quality, enterprise-level ASP.NET-based product with innovative technology... and your team needs another expert.
 
 * [About me](About me.md)
