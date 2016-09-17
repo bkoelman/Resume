@@ -37,9 +37,11 @@
 ### Tools
 | [Visual Studio](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx) |
 [Resharper](https://www.jetbrains.com/resharper/) |
-[GitHub](https://github.com/) |
+[Git & GitHub](https://github.com/) |
 [TFS](https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx) |
+[NuGet](https://docs.nuget.org/create) |
 [TeamSite CMS](https://en.wikipedia.org/wiki/TeamSite) |
+[AppVeyor](https://www.appveyor.com/) |
 [OpenSSL](http://openssl-net.sourceforge.net/) |
 [dotPeek](https://www.jetbrains.com/decompiler/) |
 [SoapUI](https://www.soapui.org/) |
