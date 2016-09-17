@@ -138,5 +138,5 @@
 |-----|-----|
 | **Period** | 2002-11 - 2006-02 |
 | **Role** | Developer, R&D, Technical designer |
-| **Project** | Upgrade of Customer Mutations Service |
+| **Project** | Various |
 | **Scenario** | Development and maintenance on standard and custom-made applications mainly targeted at training facilities. |
