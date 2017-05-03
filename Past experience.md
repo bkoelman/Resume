@@ -1,6 +1,24 @@
 ## Past experience
 
-### Experience at T-Mobile Netherlands as consultant of [T-Systems Nederland](https://www.t-systems.com/nl/nl)
+### Experience at [Wigo4it](https://www.wigo4it.nl/) as consultant of [Atos](https://atos.net/nl/nederland)
+
+|     |     |
+|-----|-----|
+| **Period** | 2017-03 - current |
+| **Role** | Developer |
+| **Project** | Implement NServiceBus for healthcare social services at Municipalities |
+| **Scenario** | Replace parts of existing BizTalk platform with NServiceBus technology.
+
+### Experience at [QDelft](https://www.qdelft.nl/) as consultant of [Atos](https://atos.net/nl/nederland)
+
+|     |     |
+|-----|-----|
+| **Period** | 2016-11 - 2017-02 |
+| **Role** | Developer |
+| **Project** | National  Skills Portal for Dutch Teachers |
+| **Scenario** | The website https://www.registerleraar.nl/ enables Dutch teachers to register the schools they are associated with. Due to stricter laws, all Dutch teachers were now required to be listed, including the grades that they are qualified for. This required a redesign of this website, including synchronization with [BRP](https://nl.wikipedia.org/wiki/Basisregistratie_Personen) and [DUO](https://nl.wikipedia.org/wiki/Dienst_Uitvoering_Onderwijs) and more advanced search capabilities.
+
+### Experience at [T-Mobile Netherlands](https://www.t-mobile.nl/) as consultant of [T-Systems Nederland](https://www.t-systems.com/nl/nl)
 
 |     |     |
 |-----|-----|
@@ -74,7 +92,7 @@
 | **Project** | Encrypted configuration |
 | **Scenario** | The security department within T-Mobile demands that all configuration data on servers, such as database connection strings, cryptographic keys, server names and email addresses are stored encrypted. Operational department requires tooling to easily decrypt-change-encrypt such files to prevent considerable extra work. I Implemented automated decryption of configuration settings at runtime and provided operators with a tool on which they can drag-and-drop configuration files that can then be edited and are automatically re-encrypted when changes have been made. In addition, this tool was used for the one-time encryption of all existing settings. |
 
-### Experience at eVision Industry Software as consultant of [Aviva Solutions](http://avivasolutions.nl/)
+### Experience at [eVision Industry Software](https://www.evision-software.com/) as consultant of [Aviva Solutions](http://avivasolutions.nl/)
 
 |     |     |
 |-----|-----|
@@ -83,7 +101,7 @@
 | **Project** | Permit Vision |
 | **Scenario** | eVision develops the product [Permit Vision](https://www.evision-software.com/blog/project/issow-integrated-safe-system-of-work/), which is used to manage the workflow of maintenance activities (including risk assessment) at an oil rig, conforming to ISO standards NEN/ISO 17776, NOGEPA and Deltalinqs. I worked in multiple Scrum sprints on extending the Permit Vision product. The first sprints focusing on customizations for BG Group. Later I joined the product development team. |
 
-### Experience at T-Mobile Netherlands as consultant of [Ordina](https://www.ordina.nl/)
+### Experience at [T-Mobile Netherlands](https://www.t-mobile.nl/) as consultant of [Ordina](https://www.ordina.nl/)
 
 |     |     |
 |-----|-----|
