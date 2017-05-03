@@ -5,16 +5,16 @@
 |     |     |
 |-----|-----|
 | **Period** | 2017-03 - current |
-| **Role** | Developer |
-| **Project** | Implement NServiceBus for healthcare social services at Municipalities |
-| **Scenario** | Replace parts of existing BizTalk platform with NServiceBus technology.
+| **Role** | Scrum Developer |
+| **Project** | Replace BizTalk with NServiceBus |
+| **Scenario** | Wigo4it provides administrative software for social services at the [G4](http://www.g-4.eu/en/) municipalities. For the healthcare domain, integrations with third parties ([BRP](https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/inhoud/basisregistratie-personen-brp), [CAK](https://www.hetcak.nl/), [GGZ](http://www.ggznederland.nl/)) and internal components were implemented using BizTalk. Developers were enthusiastic about the potential of NServiceBus. In this project I implemented NServiceBus (asynchronous messaging) to replace parts of BizTalk.
 
 ### Experience at [QDelft](https://www.qdelft.nl/) as consultant of [Atos](https://atos.net/nl/nederland)
 
 |     |     |
 |-----|-----|
 | **Period** | 2016-11 - 2017-02 |
-| **Role** | Developer |
+| **Role** | Scrum Developer |
 | **Project** | National  Skills Portal for Dutch Teachers |
 | **Scenario** | The website https://www.registerleraar.nl/ enables Dutch teachers to register the schools they are associated with. Due to stricter laws, all Dutch teachers were now required to be listed, including the grades that they are qualified for. This required a redesign of this website, including synchronization with [BRP](https://nl.wikipedia.org/wiki/Basisregistratie_Personen) and [DUO](https://nl.wikipedia.org/wiki/Dienst_Uitvoering_Onderwijs) and more advanced search capabilities.
 
