@@ -8,6 +8,10 @@
 [WCF (SOAP)](https://msdn.microsoft.com/en-us/library/dd456779(v=vs.110).aspx) |
 [LINQ](https://msdn.microsoft.com/en-us/library/mt693024.aspx) |
 [NHibernate](http://nhibernate.info/) |
+[NServiceBus](https://particular.net/nservicebus) |
+[Angular2](http://www.angular2.com/) |
+[Redux](http://redux.js.org/) |
+[JSON](https://en.wikipedia.org/wiki/JSON) |
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript) |
 [jQuery](https://jquery.com/) |
 [Knockout.js](https://docs.asp.net/en/latest/client-side/knockout.html) |
@@ -16,12 +20,13 @@
 [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) |
 [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) |
 [Oracle](https://en.wikipedia.org/wiki/Oracle_Database) |
-[xUnit](https://xunit.github.io/) | [NUnit](http://www.nunit.org/) |
+[xUnit](https://xunit.github.io/) |
+[NUnit](http://www.nunit.org/) |
+[Fluent Assertions](https://github.com/dennisdoomen/fluentassertions/wiki) |
 [Autofac](https://autofac.org/) |
 [Moq](https://github.com/Moq/moq4/wiki/Quickstart) |
 [log4net](https://logging.apache.org/log4net/) |
-[Fluent Assertions](https://github.com/dennisdoomen/fluentassertions/wiki) |
-[JSON](https://en.wikipedia.org/wiki/JSON) |
+[NLog](http://nlog-project.org/) |
 [XML](https://en.wikipedia.org/wiki/XML) |
 [XPath](https://en.wikipedia.org/wiki/XPath) |
 [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression) |
