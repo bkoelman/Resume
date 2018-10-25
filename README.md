@@ -1,4 +1,4 @@
-# Resume for Bart Koelman (Rotterdam area, The Netherlands)
+# Resume for Bart Koelman (Leiden area, The Netherlands)
 
 [Clean](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) C# code, that's what pleases me. For over ten years, design principles like [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) have been buzzing through my mind on a daily basis while (re)writing code. Mostly ASP.NET (MVC) enterprise-level internal applications, as well as the high-volume www.t-mobile.nl website.
 
