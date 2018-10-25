@@ -1,6 +1,8 @@
 ## Keywords
 
 ### Technologies
+
+#### Backend
 | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) |
 [ASP.NET MVC](http://www.asp.net/mvc) |
 [ASP.NET Web Forms](http://www.asp.net/web-forms) |
@@ -9,17 +11,9 @@
 [LINQ](https://msdn.microsoft.com/en-us/library/mt693024.aspx) |
 [NHibernate](http://nhibernate.info/) |
 [NServiceBus](https://particular.net/nservicebus) |
-[Angular2](http://www.angular2.com/) |
-[Redux](http://redux.js.org/) |
-[JSON](https://en.wikipedia.org/wiki/JSON) |
-[JavaScript](https://en.wikipedia.org/wiki/JavaScript) |
-[jQuery](https://jquery.com/) |
-[Knockout.js](https://docs.asp.net/en/latest/client-side/knockout.html) |
-[Bootstrap](http://getbootstrap.com/) |
-[HTML](https://en.wikipedia.org/wiki/HTML) |
-[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) |
 [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) |
 [Oracle](https://en.wikipedia.org/wiki/Oracle_Database) |
+[SpecFlow](https://specflow.org/) |
 [xUnit](https://xunit.github.io/) |
 [NUnit](http://www.nunit.org/) |
 [Fluent Assertions](https://github.com/dennisdoomen/fluentassertions/wiki) |
@@ -30,6 +24,7 @@
 [XML](https://en.wikipedia.org/wiki/XML) |
 [XPath](https://en.wikipedia.org/wiki/XPath) |
 [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression) |
+[Selenium](https://www.seleniumhq.org/) |
 [Asynchronous Programming](https://code.google.com/archive/p/eduasync/) |
 [Multithreading](https://msdn.microsoft.com/en-us/library/dd460717(v=vs.110).aspx) |
 [TCP/IP Sockets](https://msdn.microsoft.com/en-us/library/system.net.sockets.aspx) |
@@ -39,8 +34,27 @@
 [CIMD (sms protocol)](https://en.wikipedia.org/wiki/CIMD) |
 [Roslyn](https://github.com/dotnet/roslyn) |
 
+#### Frontend
+| [Angular6](https://angular.io/) |
+[Protractor](https://www.protractortest.org/) |
+[Redux](http://redux.js.org/) |
+[RxJS](https://rxjs-dev.firebaseapp.com/) |
+[Karma](https://karma-runner.github.io/latest/index.html) |
+[Jasmine](https://jasmine.github.io/) |
+[Bootstrap4](http://getbootstrap.com/) |
+[JavaScript](https://en.wikipedia.org/wiki/JavaScript) |
+[TypeScript](https://www.typescriptlang.org/) |
+[Prettier](https://github.com/prettier/prettier) |
+[NPM](https://www.npmjs.com/) |
+[HTML5](https://en.wikipedia.org/wiki/HTML) |
+[CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) |
+[JSON](https://en.wikipedia.org/wiki/JSON) |
+[jQuery](https://jquery.com/) |
+[Knockout.js](https://docs.asp.net/en/latest/client-side/knockout.html) |
+
 ### Tools
 | [Visual Studio](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx) |
+[Visual Studio Code](https://code.visualstudio.com/) |
 [Resharper](https://www.jetbrains.com/resharper/) |
 [Git & GitHub](https://github.com/) |
 [TFS](https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx) |
@@ -52,7 +66,6 @@
 [SoapUI](https://www.soapui.org/) |
 [Telerik Controls](http://www.telerik.com/products/aspnet-ajax.aspx) |
 [Total Commander](http://www.ghisler.com/) |
-[SpecFlow](http://specflow.org/) |
 
 ### Methodologies
 | [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) |
@@ -66,3 +79,4 @@
 [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing) |
 [CQRS](http://martinfowler.com/bliki/CQRS.html) |
 [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) |
+[Open Source](https://opensource.com/resources/what-open-source) |
