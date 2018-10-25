@@ -1,13 +1,38 @@
 ## Past experience
 
+### Experience at [Atos](https://atos.net/nl/nederland)
+
+|     |     |
+|-----|-----|
+| **Period** | 2018-09 - 2018-10 |
+| **Role** | Frontend Developer |
+| **Project** | Futoshiki |
+| **Scenario** | To actualize and improve my understanding of frontend technologies, I was given the opportunity to build [Futoshiki](https://bkoelman.github.io/Futoshiki/), an online puzzle game similar to Sudoku. The game was developed as an [open source project](https://github.com/bkoelman/Futoshiki) using Angular 6, TypeScript 3 and Bootstrap 4. The game uses a responsive interface and has features like undo moves, save progress, record playing time, detect wrong moves and can provide hints if you get stuck. Automated end-to-end tests were built using Protractor and unit tests are provided for the solver algorithms.
+
+
 ### Experience at [Wigo4it](https://www.wigo4it.nl/) as consultant of [Atos](https://atos.net/nl/nederland)
 
 |     |     |
 |-----|-----|
-| **Period** | 2017-03 - current |
+| **Period** | 2017-11 - 2018-01 |
+| **Role** | Scrum Developer |
+| **Project** | Migrate iStandaarden interfaces to next version |
+| **Scenario** | Wigo4it provides administrative software for social services at the [G4](http://www.g-4.eu/en/) municipalities. In the healthcare domain, national standards ([iStandaarden](https://informatiemodel.istandaarden.nl/2018/)) are used to exchange compensation fees with external parties using XML messages. A version upgrade of these standards was about to be introduced in the next year. With support from analysts and testers I upgraded nearly all of the existing interfaces to the new standard. Along the process I optimized a lot of code and added some extra features such as automatic schema validation of incoming and outgoing messages. |
+
+|     |     |
+|-----|-----|
+| **Period** | 2017-06 - 2017-10 |
+| **Role** | Scrum Developer |
+| **Project** | Setup automated testing using SpecFlow |
+| **Scenario** | Wigo4it provides administrative software for social services at the [G4](http://www.g-4.eu/en/) municipalities. For the healthcare domain, various complicated rules were in place (and being changed) concerning under which circumstances certain facilities (wheelchairs, for example) were paid for. There was a need not only for automated tests, but in such a way that stakeholders could have insight in which rules were in place. I implemented a framework around [SpecFlow](https://specflow.org/) which enabled functional analysts to write compact specifications in table format using the Gherkin language. |
+
+|     |     |
+|-----|-----|
+| **Period** | 2017-03 - 2017-05 |
 | **Role** | Scrum Developer |
 | **Project** | Replace BizTalk with NServiceBus |
-| **Scenario** | Wigo4it provides administrative software for social services at the [G4](http://www.g-4.eu/en/) municipalities. For the healthcare domain, integrations with third parties ([BRP](https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/inhoud/basisregistratie-personen-brp), [CAK](https://www.hetcak.nl/), [GGZ](http://www.ggznederland.nl/)) and internal components were implemented using BizTalk. Developers were enthusiastic about the potential of NServiceBus. In this project I implemented NServiceBus (asynchronous messaging) to replace parts of BizTalk.
+| **Scenario** | Wigo4it provides administrative software for social services at the [G4](http://www.g-4.eu/en/) municipalities. For the healthcare domain, integrations with third parties ([BRP](https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/inhoud/basisregistratie-personen-brp), [CAK](https://www.hetcak.nl/), [GGZ](http://www.ggznederland.nl/)) and internal components were implemented using BizTalk. Developers were enthusiastic about the potential of NServiceBus. In this project I implemented NServiceBus (asynchronous messaging) to replace parts of BizTalk. |
+
 
 ### Experience at [QDelft](https://www.qdelft.nl/) as consultant of [Atos](https://atos.net/nl/nederland)
 
@@ -16,7 +41,7 @@
 | **Period** | 2016-11 - 2017-02 |
 | **Role** | Scrum Developer |
 | **Project** | National  Skills Portal for Dutch Teachers |
-| **Scenario** | The website https://www.registerleraar.nl/ enables Dutch teachers to register the schools they are associated with. Due to stricter laws, all Dutch teachers were now required to be listed, including the grades that they are qualified for. This required a redesign of this website, including synchronization with [BRP](https://nl.wikipedia.org/wiki/Basisregistratie_Personen) and [DUO](https://nl.wikipedia.org/wiki/Dienst_Uitvoering_Onderwijs) and more advanced search capabilities.
+| **Scenario** | The website https://www.registerleraar.nl/ enables Dutch teachers to register the schools they are associated with. Due to stricter laws, all Dutch teachers were now required to be listed, including the grades that they are qualified for. This required a redesign of this website, including synchronization with [BRP](https://nl.wikipedia.org/wiki/Basisregistratie_Personen) and [DUO](https://nl.wikipedia.org/wiki/Dienst_Uitvoering_Onderwijs) and more advanced search capabilities. |
 
 ### Experience at [T-Mobile Netherlands](https://www.t-mobile.nl/) as consultant of [T-Systems Nederland](https://www.t-systems.com/nl/nl)
 
