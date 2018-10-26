@@ -7,7 +7,7 @@
 | **Period** | 2018-09 - 2018-10 |
 | **Role** | Frontend Developer |
 | **Project** | Futoshiki |
-| **Scenario** | To actualize and improve my understanding of frontend technologies, I was given the opportunity to build [Futoshiki](https://bkoelman.github.io/Futoshiki/), an online puzzle game similar to Sudoku. The game was developed as an [open source project](https://github.com/bkoelman/Futoshiki) using Angular 6, TypeScript 3 and Bootstrap 4. The game uses a responsive interface and has features like undo moves, save progress, record playing time, detect wrong moves and can provide hints if you get stuck. Automated end-to-end tests were built using Protractor and unit tests are provided for the solver algorithms.
+| **Scenario** | To actualize and improve my understanding of frontend technologies, I was given the opportunity to build [Futoshiki](https://bkoelman.github.io/Futoshiki/), an online puzzle game similar to Sudoku. The game was developed as an [open source project](https://github.com/bkoelman/Futoshiki) using Angular 6, TypeScript 3 and Bootstrap 4. The game uses a responsive layout and has features like undo moves, save progress, record playing time, detect wrong moves and can provide hints if you get stuck. Automated end-to-end tests were built using Protractor and unit tests are provided for the solver algorithms.
 
 
 ### Experience at [Wigo4it](https://www.wigo4it.nl/) as consultant of [Atos](https://atos.net/nl/nederland)
