@@ -15,6 +15,8 @@ In my spare time, I like contributing to the open-source [Microsoft Roslyn proje
 
 Feel free to contact me if you have a vision. Are committed to making the world a bit better. Are building a high-quality, enterprise-level ASP.NET-based product with innovative technology... and your team needs another expert.
 
+[Video: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+
 * [About me](About%20me.md)
 * [Past experience](Past%20experience.md)
 * [Education](Education.md)
