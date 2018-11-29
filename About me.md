@@ -5,15 +5,14 @@ In my spare time, I like to dance salsa, bachata and my newest favorite: [Kizomb
 Asking people to characterize me, they say:
 * Honest (eerlijk)
 * Independent (zelfstandig)
-* Determined (vastberaden)
-* Persistent (standvastig)
 * Driven (gedreven)
+* Focused (doelgericht)
 * Direct
 * Eager to learn (leergierig)
 * Curious (nieuwsgierig)
 * Intelligent
 * Structured (gestructureerd)
-* Cautious (bedachtzaam)
+* Conscientious (nauwkeurig)
 * Analytical (analytisch)
 * Quiet (rustig)
 
