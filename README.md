@@ -5,7 +5,7 @@
 Some developers work for the money, others to "make the customer happy". I see that differently. Want to control my own success.
 Have a team vision, form concrete goals. Getting there in small steps. That's what makes me run faster!
 
-Please stop reading if this sounds too idealistic for you.
+Please stop reading if this sounds too idealistic for you. :)
 
 *"(...) Maar soms heb je een Bart Koelman nodig: iemand die de echt complexe software problemen kan vertalen in simpele oplossingen. Iemand die verder kijkt dan vandaag en de discussie durft aan te gaan. En iemand die met programmeertalen niet alleen kan lezen en schrijven, maar ook een niveau van elegantie en inzicht bereikt dat maar voor een kleine minderheid in het vakgebied is weggelegd."* -- 2011, W. van Parera, Software Architect at T-Mobile
 
