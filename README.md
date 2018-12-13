@@ -2,8 +2,7 @@
 
 [Clean](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) C# code, that's what pleases me. For over ten years, design principles like [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) have been buzzing through my mind on a daily basis while (re)writing code. Mostly ASP.NET (MVC) enterprise-level internal applications, as well as the high-volume www.t-mobile.nl website.
 
-Some developers work for the money, others to "make the customer happy". I see that differently. Want to control my own success.
-Have a team vision, form concrete goals. Getting there in small steps. That's what makes me run faster!
+Some developers work for the money, others to "make the customer happy". For me that's different. My eye for details, combined with my conscientious attitude and drive make me eager to go for high quality and elegant solutions. I prefer to take responsibility for my own work within a team vision and form concrete goals. Getting there in small steps. That's what makes me run faster!
 
 Please stop reading if this sounds too idealistic for you. :)
 
