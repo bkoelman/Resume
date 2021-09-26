@@ -1,5 +1,21 @@
 ## Past experience
 
+Below is a selection of experience that is relevant for this request.
+
+### Experience at [Degreed](https://degreed.com/)
+
+|     |     |
+|-----|-----|
+| **Period** | 2019-08 - current |
+| **Role** | Backend Developer |
+| **Project** | REST APIs |
+| **Scenario** | When I joined the team that builds customer-facing REST APIs using the [JSON:API](https://jsonapi.org/) specification, the codebase consisted of a shared serializer which was utilized by lots of hand-written endpoints. The endpoint-specific logic handled input validation, business rules, and data access, mostly using stored procedures. The architect/author realized that in the long run, lots of copy/pasted code would become unmaintainable, so he asked me to think about ways to improve. It didn't take us long to realize that a major redesign was required, which we knew was going to be a lot of work. This triggered me to look around online for existing JSON:API .NET libraries we could use. I tried several open-source solutions and found [JsonApiDotNetCore](https://www.jsonapi.net/) to be the most promising. |
+| | Using JsonApiDotNetCore, we'd be able to replace most hand-written logic with declarative annotations and configuration. The framework was highly pluggable and extensible, while the generic approach would make adding new endpoints nearly effortless and it would make implementing future changes manageable. And lastly, it would provide a consistent customer-facing interface over all the various endpoints. I presented my findings and got buy-in from the team and upper management. So I started building a next-generation API prototype using this framework against our existing database model. |
+| | While building the prototype, I found several glitches in JsonApiDotNetCore, which I created pull requests for. This was welcomed by the maintainers and we were able to have constructive conversations. With the gained trust, I started to improve existing features and add new ones that would benefit my prototype. Fast-forwarding in time: I was given the opportunity from management to fully focus on taking JsonApiDotNetCore to the next level. I am now the primary maintainer and we hired the original maintainer, which I'm still working with on a daily basis. |
+| | When I joined JsonApiDotNetCore, the project was in flux. The original author had left the project a year earlier, so his stable version was very old. I needed the latest bits, but heavy refactorings from the new owners had made the project quite unstable. Therefore my first goal was to stabilize the codebase and get a proper release out. I created a roadmap and prioritized what we needed to do now and what could wait for a future release. Over time I also refactored and extended the integration tests, so we'd have good feature coverage and I introduced [coding guidelines](https://csharpcodingguidelines.com/). I configured Continuous Integration to run all the tests on pull requests and validate against our coding style. Other efforts of me include refreshing the documentation, writing up how we version and what we consider breaking changes, write utility scripts for local development, perform code reviews, measure/optimize performance and answer community questions. In the process, I coached my fellow partner-in-crime in applying design patterns, code quality, refactoring strategies, prioritization and estimating work. |
+| | Over the last two years, I was able to get the project fully back on track and ready for high-load production use. While I won't bother you with [all the nitty-gritty details](https://github.com/json-api-dotnet/JsonApiDotNetCore/pulls?q=is%3Apr+is%3Amerged+author%3Abart-degreed), I'd like to point out a few highlights that I'm particularly proud of:<br />- [Composable filters and deeply nested queries](https://github.com/json-api-dotnet/JsonApiDotNetCore/pull/792)<br/>- [Atomic bulk/batch requests](https://github.com/json-api-dotnet/JsonApiDotNetCore/pull/930)<br />- [Redesigned extensibility points for business logic](https://github.com/json-api-dotnet/JsonApiDotNetCore/pull/977) |
+
+
 ### Experience at [Atos](https://atos.net/nl/nederland)
 
 |     |     |
@@ -80,7 +96,7 @@
 | **Period** | 2014-08 |
 | **Role** | Developer |
 | **Project** | Single Sign-on using Oracle RightNow Pass-Through Authentication |
-| **Scenario** | The T-Mobile website integrates Oracle RightNow (provided by third party) for customer questions, FAQ, usage guides etc. The existing custom-built single sign-on mechanism needed to be replaced by Oracle’s built-in Pass-Through authentication to reduce maintenance costs. PTA uses an AES-256 encrypted payload to transfer customer details over HTTPS and provides features to synchronize sessions and login/logout. This involved reverse-engineering the current implementation and design and build a new solution using PTA. Coordination with technical lead from third party to discuss how to deal with encodings, padding, URL callbacks etc. |
+| **Scenario** | The T-Mobile website integrates Oracle RightNow (provided by third party) for customer questions, FAQ, usage guides etc. The existing custom-built single sign-on mechanism needed to be replaced by Oracle's built-in Pass-Through authentication to reduce maintenance costs. PTA uses an AES-256 encrypted payload to transfer customer details over HTTPS and provides features to synchronize sessions and login/logout. This involved reverse-engineering the current implementation and design and build a new solution using PTA. Coordination with technical lead from third party to discuss how to deal with encodings, padding, URL callbacks etc. |
 |     |     |
 | **Period** | 2014-06 - 2014-08 |
 | **Role** | Developer |
@@ -143,7 +159,7 @@
 | **Period** | 2010-08 - 2010-09 |
 | **Role** | Lead Developer |
 | **Project** | Automated handset settings |
-| **Scenario** | On the website of T-Mobile, a user can select his/her brand and type of handset from a dropdown list, after which the system sends an sms with technical phone configuration settings for sms/mms/email-gateway, Bluetooth etc. In the new situation, the application retrieves in real-time from the GSM network in what brand/type of handset the users’ SIM card is currently active. Non-logged-in users must enter their phone number first. There were variations of this mechanism required for dealers and customer service representatives. My work involved to elaborate designs in collaboration with business analyst and tester. In addition, inventory, scheduling, work allocation and realization of this project with commitment of me and two medior developers. I myself have built complex components, such as multilayer caching to reduce load on backend systems, single sign-on mechanisms, etc. |
+| **Scenario** | On the website of T-Mobile, a user can select his/her brand and type of handset from a dropdown list, after which the system sends an sms with technical phone configuration settings for sms/mms/email-gateway, Bluetooth etc. In the new situation, the application retrieves in real-time from the GSM network in what brand/type of handset the users' SIM card is currently active. Non-logged-in users must enter their phone number first. There were variations of this mechanism required for dealers and customer service representatives. My work involved to elaborate designs in collaboration with business analyst and tester. In addition, inventory, scheduling, work allocation and realization of this project with commitment of me and two medior developers. I myself have built complex components, such as multilayer caching to reduce load on backend systems, single sign-on mechanisms, etc. |
 |     |     |
 | **Period** | 2010-03 - 2010-04 |
 | **Role** | Web Developer |
